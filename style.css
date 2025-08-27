@@ -1,0 +1,48 @@
+html{
+    background-color:#041420;
+}
+#invitacion-card{
+    border:10px solid rgb(85, 83, 83);
+    border-radius:10px;
+    margin-left:29%;
+    margin-top:5%;
+    padding:100px;
+    width:500px;
+}
+.card-header{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    color:rgb(81, 81, 233);
+    text-align:center;
+}
+#card-body{
+    font-family:monospace;
+    font-size:large;
+    text-align:justify;
+    color:azure;
+    font-weight:100;
+} 
+.info-evento{
+    margin-left:9%;
+    font-family:monospace;
+    font-weight:100;
+    text-align:center;
+    border:5px solid white;
+    width:400px;
+}
+.card-header img{
+    height:200px;
+    width:200px;
+}
+.card-footer{
+    background-color:rgb(135, 135, 211);
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    margin-top:30px;
+    margin-left:37%;
+    text-align:center;
+    border:5px groove black;
+    border-radius:5px;
+    padding:15px;
+    width:100px;
+}
